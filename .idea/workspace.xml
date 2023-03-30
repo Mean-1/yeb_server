@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc9a5970-1d55-489c-a4dc-626f59b53a0e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/security/util/Cache.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.5/spring-boot-autoconfigure-2.6.5-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Objects.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.5/spring-boot-autoconfigure-2.6.5-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\86178\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\86178\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2736f6sKNhPjCfu082TQCnvfP5n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaMethodFindUsagesOptions.isImplementingMethods" value="true" />
+    <property name="JavaMethodFindUsagesOptions.isSearchForTextOccurrences" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL&#10;GenericSQL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webRecruit" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/yeb-generator/src/main/java/com/xxx/App.java" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea path\yeb\yeb-mail\src\main\resources\images" />
+      <recent name="D:\idea path\yeb\yeb-generator\src\main\java\com\xxx\generator" />
+      <recent name="D:\idea path\yeb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea path\yeb\yeb-mail\src\main\resources\templates" />
+      <recent name="D:\idea path\yeb\yeb-server\src\main\resources\mapper" />
+      <recent name="D:\idea path\yeb\yeb-server\src\main\resources\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxx.mail" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.YebApplication.testQueryTime">
+    <configuration name="MyApplicationTests.testQueryTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.MyApplicationTests" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxx" />
+      <option name="MAIN_CLASS_NAME" value="com.xxx.MyApplicationTests" />
+      <option name="METHOD_NAME" value="testQueryTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebApplication.testQueryTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxx.server" />
+      <option name="MAIN_CLASS_NAME" value="com.xxx.server.YebApplication" />
+      <option name="METHOD_NAME" value="testQueryTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.MyApplicationTests" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxx" />
+      <option name="MAIN_CLASS_NAME" value="com.xxx.test1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yeb-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxx.mail.MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxx.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxx.server.YebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YebApplication (1)" />
+        <item itemvalue="JUnit.YebApplication.testQueryTime" />
+        <item itemvalue="JUnit.MyApplicationTests.testQueryTime" />
+        <item itemvalue="JUnit.test1.test" />
+        <item itemvalue="Spring Boot.MailApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc9a5970-1d55-489c-a4dc-626f59b53a0e" name="Changes" comment="" />
+      <created>1648536525566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648536525566</updated>
+      <workItem from="1648536527901" duration="687000" />
+      <workItem from="1648537258163" duration="2523000" />
+      <workItem from="1648539855000" duration="4663000" />
+      <workItem from="1648627215816" duration="5244000" />
+      <workItem from="1648648717135" duration="4150000" />
+      <workItem from="1648708330118" duration="136000" />
+      <workItem from="1648708531310" duration="227000" />
+      <workItem from="1648708810343" duration="596000" />
+      <workItem from="1648709443451" duration="566000" />
+      <workItem from="1648710053467" duration="661000" />
+      <workItem from="1648710793066" duration="358000" />
+      <workItem from="1648711217622" duration="721000" />
+      <workItem from="1648711986838" duration="2705000" />
+      <workItem from="1648779681838" duration="3307000" />
+      <workItem from="1648793425298" duration="4049000" />
+      <workItem from="1648805647291" duration="3027000" />
+      <workItem from="1648899363269" duration="3010000" />
+      <workItem from="1649129666742" duration="4824000" />
+      <workItem from="1649159488306" duration="599000" />
+      <workItem from="1649229040182" duration="3984000" />
+      <workItem from="1649315212646" duration="4023000" />
+      <workItem from="1649382978368" duration="12970000" />
+      <workItem from="1649415219695" duration="14000" />
+      <workItem from="1649568626102" duration="194000" />
+      <workItem from="1649681473400" duration="4382000" />
+      <workItem from="1649729244077" duration="11379000" />
+      <workItem from="1649750617413" duration="2575000" />
+      <workItem from="1649818779918" duration="6817000" />
+      <workItem from="1649826434831" duration="2874000" />
+      <workItem from="1649903646216" duration="4740000" />
+      <workItem from="1649997506380" duration="2836000" />
+      <workItem from="1650171978066" duration="3758000" />
+      <workItem from="1650207062585" duration="2596000" />
+      <workItem from="1650209723605" duration="648000" />
+      <workItem from="1650271186801" duration="466000" />
+      <workItem from="1650271704458" duration="422000" />
+      <workItem from="1650272162559" duration="775000" />
+      <workItem from="1650272975888" duration="4325000" />
+      <workItem from="1650331205553" duration="3981000" />
+      <workItem from="1650596833805" duration="775000" />
+      <workItem from="1650872029367" duration="12000" />
+      <workItem from="1651300892520" duration="2319000" />
+      <workItem from="1651388163066" duration="7891000" />
+      <workItem from="1651448502402" duration="963000" />
+      <workItem from="1651641226900" duration="2258000" />
+      <workItem from="1651672811159" duration="581000" />
+      <workItem from="1651755976085" duration="4533000" />
+      <workItem from="1651803729380" duration="4036000" />
+      <workItem from="1651981202570" duration="2213000" />
+      <workItem from="1652017747319" duration="2004000" />
+      <workItem from="1652090047976" duration="1880000" />
+      <workItem from="1652150253466" duration="3342000" />
+      <workItem from="1652240066050" duration="1542000" />
+      <workItem from="1652257342249" duration="958000" />
+      <workItem from="1652411343509" duration="641000" />
+      <workItem from="1652429966034" duration="2313000" />
+      <workItem from="1652518022775" duration="2121000" />
+      <workItem from="1652619532117" duration="2878000" />
+      <workItem from="1652757801537" duration="1957000" />
+      <workItem from="1652866339209" duration="3209000" />
+      <workItem from="1652946860942" duration="17000" />
+      <workItem from="1652948139080" duration="10187000" />
+      <workItem from="1652966590717" duration="2312000" />
+      <workItem from="1653114946878" duration="210000" />
+      <workItem from="1653281283360" duration="2098000" />
+      <workItem from="1653284175638" duration="7114000" />
+      <workItem from="1653293662522" duration="483000" />
+      <workItem from="1653352599970" duration="3709000" />
+      <workItem from="1653357133935" duration="1533000" />
+      <workItem from="1653359521305" duration="3042000" />
+      <workItem from="1653400494368" duration="4117000" />
+      <workItem from="1653473174213" duration="7231000" />
+      <workItem from="1653487231367" duration="3728000" />
+      <workItem from="1653524737766" duration="2193000" />
+      <workItem from="1653572045731" duration="4293000" />
+      <workItem from="1653741086644" duration="5910000" />
+      <workItem from="1653998016248" duration="8503000" />
+      <workItem from="1654065936429" duration="3430000" />
+      <workItem from="1654168354930" duration="3554000" />
+      <workItem from="1654328997716" duration="4846000" />
+      <workItem from="1654515935141" duration="453000" />
+      <workItem from="1654517141778" duration="1568000" />
+      <workItem from="1654519326485" duration="523000" />
+      <workItem from="1654667732393" duration="3287000" />
+      <workItem from="1654672989463" duration="2775000" />
+      <workItem from="1654682961139" duration="1231000" />
+      <workItem from="1655376662336" duration="1018000" />
+      <workItem from="1655456221577" duration="3261000" />
+      <workItem from="1655636521977" duration="135000" />
+      <workItem from="1655636704699" duration="2967000" />
+      <workItem from="1655701037206" duration="14380000" />
+      <workItem from="1655874275409" duration="2290000" />
+      <workItem from="1655972097533" duration="1727000" />
+      <workItem from="1656394610656" duration="2285000" />
+      <workItem from="1656397005578" duration="3854000" />
+      <workItem from="1656496377691" duration="939000" />
+      <workItem from="1656597316394" duration="1085000" />
+      <workItem from="1656642412411" duration="7155000" />
+      <workItem from="1657327648776" duration="6036000" />
+      <workItem from="1657418043228" duration="3784000" />
+      <workItem from="1657504397902" duration="1268000" />
+      <workItem from="1657512607509" duration="1586000" />
+      <workItem from="1657689551558" duration="7078000" />
+      <workItem from="1657770794540" duration="4301000" />
+      <workItem from="1657780529854" duration="5367000" />
+      <workItem from="1658116195626" duration="13290000" />
+      <workItem from="1658303738270" duration="5372000" />
+      <workItem from="1658391141621" duration="1254000" />
+      <workItem from="1658479558937" duration="985000" />
+      <workItem from="1658547308759" duration="1535000" />
+      <workItem from="1658648044775" duration="8835000" />
+      <workItem from="1659409045199" duration="1305000" />
+      <workItem from="1659676511537" duration="2113000" />
+      <workItem from="1660020830175" duration="2142000" />
+      <workItem from="1661689640351" duration="351000" />
+      <workItem from="1661769395556" duration="7268000" />
+      <workItem from="1662171333223" duration="807000" />
+      <workItem from="1662470223309" duration="804000" />
+      <workItem from="1663231278280" duration="1694000" />
+      <workItem from="1663295581751" duration="2002000" />
+      <workItem from="1663333519963" duration="2634000" />
+      <workItem from="1664074918452" duration="2609000" />
+      <workItem from="1665191665725" duration="3601000" />
+      <workItem from="1665209087549" duration="7002000" />
+      <workItem from="1665240660546" duration="39000" />
+      <workItem from="1665241671548" duration="994000" />
+      <workItem from="1665276109196" duration="7503000" />
+      <workItem from="1665295627630" duration="6860000" />
+      <workItem from="1665362075883" duration="4893000" />
+      <workItem from="1665383942820" duration="4344000" />
+      <workItem from="1665394127255" duration="110000" />
+      <workItem from="1665399029604" duration="1287000" />
+      <workItem from="1665448260341" duration="694000" />
+      <workItem from="1665468499252" duration="1441000" />
+      <workItem from="1665495356254" duration="3534000" />
+      <workItem from="1665534882209" duration="1221000" />
+      <workItem from="1665554917294" duration="3532000" />
+      <workItem from="1665570781014" duration="6348000" />
+      <workItem from="1665622525844" duration="1202000" />
+      <workItem from="1665641193707" duration="2740000" />
+      <workItem from="1665710817465" duration="2811000" />
+      <workItem from="1665727380157" duration="731000" />
+      <workItem from="1667206976107" duration="641000" />
+      <workItem from="1667462049219" duration="736000" />
+      <workItem from="1668490423017" duration="1154000" />
+      <workItem from="1674446066169" duration="1417000" />
+      <workItem from="1674715644418" duration="1734000" />
+      <workItem from="1675304337658" duration="4777000" />
+      <workItem from="1675430701912" duration="58000" />
+      <workItem from="1675430776405" duration="910000" />
+      <workItem from="1676363160286" duration="468000" />
+      <workItem from="1676458699012" duration="1704000" />
+      <workItem from="1676467254103" duration="726000" />
+      <workItem from="1676617381858" duration="1761000" />
+      <workItem from="1677132621718" duration="1310000" />
+      <workItem from="1677136265742" duration="58000" />
+      <workItem from="1677476622587" duration="838000" />
+      <workItem from="1677484143986" duration="3026000" />
+      <workItem from="1677509834415" duration="1267000" />
+      <workItem from="1677567043159" duration="5591000" />
+      <workItem from="1677654352599" duration="613000" />
+      <workItem from="1677914072064" duration="608000" />
+      <workItem from="1677916875559" duration="414000" />
+      <workItem from="1677917306613" duration="644000" />
+      <workItem from="1677996961024" duration="6185000" />
+      <workItem from="1678078217382" duration="17090000" />
+      <workItem from="1678160327583" duration="2208000" />
+      <workItem from="1678704073128" duration="727000" />
+      <workItem from="1678721612867" duration="2000" />
+      <workItem from="1678767818596" duration="502000" />
+      <workItem from="1679023684009" duration="5031000" />
+      <workItem from="1679059976543" duration="70000" />
+      <workItem from="1679134145211" duration="725000" />
+      <workItem from="1679143406887" duration="32000" />
+      <workItem from="1679283986600" duration="10661000" />
+      <workItem from="1679327533335" duration="10000" />
+      <workItem from="1679384565992" duration="2766000" />
+      <workItem from="1679578991564" duration="1763000" />
+      <workItem from="1679668688033" duration="2349000" />
+      <workItem from="1679742182323" duration="3588000" />
+      <workItem from="1679923733021" duration="1289000" />
+      <workItem from="1680078218172" duration="1782000" />
+      <workItem from="1680136666433" duration="1439000" />
+      <workItem from="1680141808303" duration="788000" />
+      <workItem from="1680162647742" duration="1864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

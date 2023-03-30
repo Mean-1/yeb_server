@@ -1,0 +1,77 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://localhost:3306/yeb?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai"
+    username: root
+    password: lc20010801
+  hikari:
+    #连接池名
+    pool-name: DateHikariCP
+    minimum-idle: 5 #最小空闲连接数量
+    # 连接池中允许的最大连接数。缺省值：10；推荐的公式：((core_count * 2) + effective_spindle_count)
+    maximum-pool-size: 10
+
+    #空闲连接存活最大时间，默认600000（10分钟）
+    idle-timeout: 600000
+    auto-commit: true  #此属性控制从池返回的连接的默认自动提交行为,默认值：true
+    # 一个连接的生命时长（毫秒），超时而且没被使用则被释放（retired），缺省:30分钟，建议设置比数据库超时时长少30秒，
+    # 参考MySQL wait_timeout参数（show variables like '%timeout%';）
+    max-lifetime: 1800000
+    # 等待连接池分配连接的最大时长（毫秒），超过这个时长还没可用的连接则发生SQLException， 缺省:30秒
+    connection-timeout: 30000
+    connection-test-query: SELECT 1
+  main:
+    allow-circular-references: true
+  redis:
+    timeout: 10000ms
+    host: 127.0.0.1
+    port: 6379
+    database: 0 # 选择哪个库，默认0库
+    password:
+    lettuce:
+      pool:
+        max-active: 1024 # 最大连接数，默认 8: 39.102.65.157
+        max-wait: 10000ms # 最大连接阻塞等待时间，单位毫秒，默认 -1
+        max-idle: 200 # 最大空闲连接，默认 8
+        min-idle: 5
+  # rabbitmq配置
+  rabbitmq:
+    # 用户名
+    username: guest
+    # 密码
+    password: guest
+    # 服务器地址
+    host: 127.0.0.1
+    # 端口
+    port: 5672
+    # 消息失败回调
+    publisher-returns: true
+    # 消息确认回调
+    publisher-confirm-type: correlated
+
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/*Mapper.xml
+  #配置mybatis数据返回类型别名
+  type-aliases-package: com.xxx.server.pojo
+  configuration:
+    # 自动驼峰命名
+    map-underscore-to-camel-case: false
+
+logging:
+  level:
+    com.xxx.server.mapper: debug
+
+jwt:
+  # Jwt存储的请求头
+  tokenHeader: Authorization
+  # Jwt加密秘钥
+  secret: yeb-secret
+  # Jwt 的超期限时间（60*60）*24
+  expiration: 604800
+  # Jwt负载中拿到开头
+  tokenHead: Bearer
